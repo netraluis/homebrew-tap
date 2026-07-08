@@ -7,7 +7,7 @@ cask "netraluiswhisper" do
   desc "Local push-to-talk voice dictation for macOS"
   homepage "https://github.com/netraluis/netraluisWhisper"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "netraluisWhisper.app"
 
