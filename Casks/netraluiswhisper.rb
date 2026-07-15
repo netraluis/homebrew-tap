@@ -1,6 +1,6 @@
 cask "netraluiswhisper" do
-  version "0.1.8"
-  sha256 "1676e19fe3412ef317b4c2f39e82382debd487a4585b43ecaea10974db708469"
+  version "0.1.9"
+  sha256 "6d4437fa4f0debecfab9fefcc4c1ca53a85ef7e9b46192eb1a7860d2a3c472ac"
 
   url "https://github.com/netraluis/netraluisWhisper/releases/download/v#{version}/netraluisWhisper.dmg"
   name "netraluisWhisper"
